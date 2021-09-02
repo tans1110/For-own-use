@@ -1,6 +1,9 @@
 # > 流媒体emby-nexitally服务器
 DOMAIN,emby.nexitally.com
 
+# > 流媒体emby-date服务器
+DOMAIN,2.emby.date.com
+
 # > 流媒体emby-paoche服务器
 DOMAIN,emby.cjpc.cc
 
@@ -53,10 +56,7 @@ DOMAIN,pornemby.club
 DOMAIN,emby.immtel.com
 
 # > 流媒体Odyssey服务器
-DOMAIN,cf.odysseyplus.site
-DOMAIN,agahk.odysseyplus.site
-DOMAIN,agasg.odysseyplus.site
-DOMAIN,ru.odysseyplus.site
+DOMAIN-SUFFIX,odysseyplus.site
 
 # > 流媒体Exflux服务器
 DOMAIN,line.emby.men
