@@ -2,7 +2,7 @@
 DOMAIN,emby.nexitally.com
 
 # > 流媒体emby-date服务器
-DOMAIN,2.emby.date.com
+DOMAIN,2.emby.date
 
 # > 流媒体emby-paoche服务器
 DOMAIN,emby.cjpc.cc
