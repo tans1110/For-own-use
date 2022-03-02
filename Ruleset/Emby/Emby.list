@@ -48,6 +48,7 @@ DOMAIN,aws.jmsooo.com
 DOMAIN,ntt1.jmsooo.com
 DOMAIN,hinet.jmsooo.com
 DOMAIN,cf1.jmsooo.com
+DOMAIN-SUFFIX,jmsooo.com
 
 # > 流媒体pornemby服务器
 DOMAIN,pornemby.club
